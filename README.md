@@ -2,7 +2,7 @@
 
 **I doubt this will be useful for you**, but I needed this for myself, so I made it. I figured someone else might need it too, so here it is!
 
-This is a simple Python application that moves the mouse to a pre-defined coordinate on the screen at specific times. It can be useful for tasks like preventing your system from going to sleep by simulating mouse activity or performing automated mouse clicks at specific intervals.
+This is a simple Python application that moves the mouse to a pre-defined coordinate on the screen at specific times.
 
 ## Features
 
