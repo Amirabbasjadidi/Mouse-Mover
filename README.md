@@ -13,7 +13,7 @@ This is a simple Python application that moves the mouse to a pre-defined coordi
 
 ## Download the Executable
 
-If you don't want to deal with Python setup and dependencies, you can download the **executable file (exe)** from the [Releases](https://github.com/your-repo-link/releases) section.
+If you don't want to deal with Python setup and dependencies, you can download the **executable file (exe)** from the [Releases](https://github.com/Amirabbasjadidi/Mouse-Mover/releases/) section.
 
 ## Requirements
 
